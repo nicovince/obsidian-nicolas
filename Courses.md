@@ -4,4 +4,4 @@
 - [ ] tablette chocolat
 
 ## ADS
-- [ ] s
+- [ ] lame scieà
