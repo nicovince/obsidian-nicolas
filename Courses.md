@@ -4,4 +4,4 @@
 - [ ] tablette chocolat
 
 ## ADS
-- [ ] lame scie à mét
+- [ ] lame scie à méteaux
