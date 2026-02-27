@@ -1,2 +1,2 @@
 ## Obsidian
-### Setup 
+### Setup g
