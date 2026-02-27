@@ -7,7 +7,7 @@ https://medium.com/technology-hits/how-to-sync-obsidian-across-all-devices-using
 ### setup icon
 https://forum.obsidian.md/t/obsidian-app-icon-doesnt-show-up-in-taskbar-on-linux/48658/5
 ```bash
-cat ~/.local/share/applications/obsidian.desktop <
+cat ~/.local/share/applications/obsidian.desktop <<EOF
 [Desktop Entry]  
 Name=Obsidian  
 Exec=/home/nicolas/.local/bin/Obsidian-1.11.7.AppImage  
