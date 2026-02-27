@@ -1,1 +1,1 @@
-[[Diverses courses]]
+[[Courses]]
