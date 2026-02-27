@@ -19,4 +19,5 @@ X-AppImage-Version=1.11.7
 Comment=Obsidian  
 MimeType=x-scheme-handler/obsidian;  
 Categories=Office;
+EOF
 ```
