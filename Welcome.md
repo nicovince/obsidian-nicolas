@@ -1,3 +1,3 @@
 [[Courses]]
 
-How-
+[[How-Tos]]
