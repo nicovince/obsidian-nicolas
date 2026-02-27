@@ -1,2 +1,2 @@
 ## Obsidian
-### Setup git sync
+### Setup git synchro
