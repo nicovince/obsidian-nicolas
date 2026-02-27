@@ -21,3 +21,6 @@ MimeType=x-scheme-handler/obsidian;
 Categories=Office;
 EOF
 ```
+
+```bash
+```
