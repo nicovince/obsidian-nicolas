@@ -6,3 +6,5 @@ https://medium.com/technology-hits/how-to-sync-obsidian-across-all-devices-using
 	- Configure to pull/push on open/close
 ### setup icon
 https://forum.obsidian.md/t/obsidian-app-icon-doesnt-show-up-in-taskbar-on-linux/48658/5
+```bash
+```
