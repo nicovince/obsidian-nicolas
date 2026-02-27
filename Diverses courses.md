@@ -1,11 +1,11 @@
 ## carrefour
-- [ ] litière
+- [x] litière
 - [ ] croquettes 
-- [ ] tablette chocolat
-- [ ] épinards
-- [ ] beurre
-- [ ] crème
-- [ ] haricots blancs
+- [x] tablette chocolat
+- [x] épinards
+- [x] beurre
+- [x] crème
+- [x] haricots blancs
 
 ## ADS
 - [ ] lame scie à méteaux
