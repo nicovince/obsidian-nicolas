@@ -23,5 +23,5 @@ EOF
 ```
 
 ```bash
-rsync -avz --dry-run $(mount | grep -o '/tmp/.mount_Obsidi[^ ]*')/usr/share/icons/hicolor/ /home/nicolas/.local/share/icons/hicolor/
+rsync -avz $(mount | grep -o '/tmp/.mount_Obsidi[^ ]*')/usr/share/icons/hicolor/ /home/nicolas/.local/share/icons/hicolor/
 ```
