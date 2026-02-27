@@ -4,4 +4,4 @@ https://medium.com/technology-hits/how-to-sync-obsidian-across-all-devices-using
 - obsidian git plugin on desktop
 - gitsync app on android device
 	- Configure to pull/push on open/close
-### setup 
+### setup icon
