@@ -1,5 +1,6 @@
 ## carrefour
-- [ ] croquettes 
+- [ ] croquettes
+- [ ] mie
 
 #### marché 
 - [ ] 
