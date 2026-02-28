@@ -1,6 +1,6 @@
 ## carrefour
 - [ ] croquettes
-- [ ] mie
+- [ ] miel pops
 
 #### marché 
 - [ ] 
