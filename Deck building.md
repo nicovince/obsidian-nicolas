@@ -2,5 +2,5 @@
 Super cool, parties un peu longues
 
 # Harry Potter battle for Hogwarts
-Jeu progressif. Avec les extensions les petits sont trop longues
-2,-3h
+Jeu progressif. Avec les extensions les parties sont trop longues
+2-3h
