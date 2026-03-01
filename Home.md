@@ -2,4 +2,4 @@
 [[Cuisine]]
 [[How-Tos]]
 [[Todo]]
-Notes-Jouran
+Notes-Journali
