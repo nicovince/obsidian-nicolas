@@ -1,4 +1,4 @@
 [[Courses]]
-Cuisine
+[[Cuisine]]
 [[How-Tos]]
 [[Todo]]
