@@ -1,1 +1,2 @@
 - [ ] [[médiathèque 28-03]]
+- [ ] Figurines [[jeu de société]]
