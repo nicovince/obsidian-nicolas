@@ -1,3 +1,3 @@
 https://nicovince.github.io/cuisine/
 
-GitHub de 
+GitHub de cuisine
