@@ -1,1 +1,1 @@
-[[Notes-Journaliere/2026-03-01]]
+[[Notes-Journalieres/2026-03-01]]
